@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Project_Guillermo.Ruiz.Senso_71235</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string-array name="types_array">
+        <item>Choose a type of location</item>
+        <item>Province</item>
+        <item>County</item>
+        <item>City</item>
+        <item>Town</item>
+        <item>Townland</item>
+        <item>Barony</item>
+        <item>Street </item>
+        <item>Village</item>
+        <item>River</item>
+        <item>Other</item>
+        <item>Country</item>
+        <item>Castle</item>
+        <item>Seignory</item>
+        <item>Forest</item>
+        <item>Lake</item>
+    </string-array>
+</resources>
